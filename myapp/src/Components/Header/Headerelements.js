@@ -4,6 +4,7 @@ display:flex;
 background-color:#1F2533;
 height:40px;
 align-items:center;
+// justoify
 `
 export const LeftDiv=styled.div`
 display:flex;
